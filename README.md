@@ -22,3 +22,6 @@ article > div > div * div.gizmo-bot-avatar {
 
 ## Install
 Install from store and refresh your ChatGTP tab.
+
+## Privacy Policy
+This browser extension does not collect, process, or transmit any user data. It only modifies the appearance of ChatGPT pages using CSS to make the interface full screen for better usability. All code is open source an verifiable.
