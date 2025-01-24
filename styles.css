@@ -1,0 +1,9 @@
+article > div > div {
+	gap: 0px !important;
+	max-width: 100% !important;
+}
+
+
+article > div > div * div.gizmo-bot-avatar {
+	display: none !important;
+}
