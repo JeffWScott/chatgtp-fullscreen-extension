@@ -4,7 +4,7 @@
 	"name": "ChatGPT Fullscreen Chat",
 	"homepage_url": "https://github.com/JeffWScott/chatgtp-fullscreen-extension",
 	"version": "1.0",
-	"description": "Makes ChatGPT chats full screen with. Uses a few lines of CSS to remove all the space on either side of the chat to make reading code blocks eaiser.",
+	"description": "Uses a few lines of CSS to makes ChatGPT chats full screen width for easier code reading.",
 	"permissions": ["activeTab"],
 	"host_permissions": ["https://chatgpt.com/*"],
 	"content_scripts": [
